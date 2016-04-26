@@ -4,6 +4,7 @@ This repository contains the IP-s and codes for the project for the SoC Design c
 
 ## Folder structure
 
+```
 Master
    |
    +-- IPs  -  Contains the C codes you can use in the lab
@@ -14,3 +15,4 @@ Master
    +-- Codes  -  Contains the C codes you can use in the lab
          |
          +-- EMPTY (at the moment)
+```
