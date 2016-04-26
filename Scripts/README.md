@@ -15,4 +15,4 @@ Also, as the Ramdisk image that is used in the course in question does not have 
 This script automates this process by assigning MAC and IP address based on the number given as parameters. It also automatically configures the routes so that the ZedBoard will work with the network provided for the lab work.
 
 
-**Please refer to the lab manual for details on how to choose the number.**
+**Please refer to the lab manual for details on how to choose the parameter.**
