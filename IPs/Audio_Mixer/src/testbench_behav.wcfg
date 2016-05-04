@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="12" />
+   <wvobject db_ref_id="1" type="logic" fp_name="/testbench/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" type="logic" fp_name="/testbench/rst">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" type="array" fp_name="/testbench/mixed_audio_out">
+      <obj_property name="ElementShortName">mixed_audio_out[23:0]</obj_property>
+      <obj_property name="ObjectShortName">mixed_audio_out[23:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#FFFFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" type="array" fp_name="/testbench/audio_stream_a_in">
+      <obj_property name="ElementShortName">audio_stream_a_in[23:0]</obj_property>
+      <obj_property name="ObjectShortName">audio_stream_a_in[23:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" type="array" fp_name="/testbench/audio_stream_b_in">
+      <obj_property name="ElementShortName">audio_stream_b_in[23:0]</obj_property>
+      <obj_property name="ObjectShortName">audio_stream_b_in[23:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" type="array" fp_name="/testbench/top_level_inst/temp_1">
+      <obj_property name="ElementShortName">temp_1[23:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_1[23:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" type="array" fp_name="/testbench/top_level_inst/temp_2">
+      <obj_property name="ElementShortName">temp_2[47:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_2[47:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" type="array" fp_name="/testbench/top_level_inst/temp_1_2">
+      <obj_property name="ElementShortName">temp_1_2[47:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_1_2[47:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" type="array" fp_name="/testbench/top_level_inst/temp_answer">
+      <obj_property name="ElementShortName">temp_answer[47:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_answer[47:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" type="array" fp_name="/testbench/top_level_inst/temp_1_2">
+      <obj_property name="ElementShortName">temp_1_2[47:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_1_2[47:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" type="array" fp_name="/testbench/mixed_audio_out">
+      <obj_property name="ElementShortName">mixed_audio_out[23:0]</obj_property>
+      <obj_property name="ObjectShortName">mixed_audio_out[23:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" type="array" fp_name="/testbench/mixed_audio_out2">
+      <obj_property name="ElementShortName">mixed_audio_out2[23:0]</obj_property>
+      <obj_property name="ObjectShortName">mixed_audio_out2[23:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

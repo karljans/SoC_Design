@@ -9,7 +9,7 @@ Master
   |
   +-- IPs  -  Contains the C codes you can use in the lab
   |    |
-  |    +-- EMPTY (at the moment)
+  |    +-- Audio_Mixer - Contains code for the audio mixer IP
   |
   |
   +-- Codes  -  Contains the C codes you can use in the lab
