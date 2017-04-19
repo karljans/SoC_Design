@@ -7,9 +7,11 @@ This repository contains the IP-s and codes for the project for the SoC Design c
 ```
 Master
   |
-  +-- IPs  -  Contains the C codes you can use in the lab
+  +-- HDL  -  Contains the VHDL / Verilog code for different IPs used in the project
   |    |
   |    +-- Audio_Mixer - Contains code for the audio mixer IP
+  |    |
+  |    +-- ZedboardOLED - Contains code for the OLED controlling IP
   |
   |
   +-- Codes  -  Contains the C codes you can use in the lab
