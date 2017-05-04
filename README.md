@@ -10,9 +10,6 @@ Master
   +-- HDL  -  Contains the VHDL / Verilog code for different IPs used in the project
   |    |
   |    +-- Audio_Mixer - Contains code for the audio mixer IP
-  |    |
-  |    +-- ZedboardOLED - Contains code for the OLED controlling IP
-  |
   |
   +-- Codes  -  Contains the C codes you can use in the lab
   |      |
@@ -21,6 +18,10 @@ Master
   |                 +-- udpclient.h
   |                 |
   |                 +-- udpclient.c
+  |
+  +-- IPs - Contains ready-made IPs for Vivado
+  |    |
+  |    +-- ZedboardOLED_1.0 - Contains IP for controlling the OLED display on ZedBoard
   |
   +-- Scripts  -  Contains scripts to make the life a bit more tolerable
          |
